@@ -1,18 +1,16 @@
-
-
 {
-  "timeZone": "Greece",
+  "timeZone": "Europe/Athens",
   "dependencies": {},
   "dataStudio": {
     "name": "ContactPigeon Data Studio Connector",
-   // "logoUrl": "https://i.imgur.com/e9wE7Md.png",
+    "logoUrl": "https://i.imgur.com/e9wE7Md.png",
     "company": "Eleni Vasilaki",
     "companyUrl": "https://github.com/elenigvasilaki",
     "addonUrl": "https://github.com/elenigvasilaki/ContactPigeon",
     "supportUrl": "https://github.com/elenigvasilaki/ContactPigeon",
     "shortDescription": "ContactPigeon Data Studio Connector",
-    "description": "You can now visualize Contact Pigeon's API data with Google Data Studio.",
-    "authType": ["OAuth2"],
+    "description": "You can now visualize ContactPigeon's API data with Google Data Studio.",
+    "authType": ["USER_TOKEN"],
     "feeType": ["FREE"],
     "sources": ["ContactPigeon"]
   },
